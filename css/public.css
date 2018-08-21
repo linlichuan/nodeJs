@@ -1,0 +1,17 @@
+.vehicle_center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.horizental_center{
+	display: flex;
+	flex-direction: row;
+	justify-content:center;
+}
+.wrap_content{
+
+}
+.match_parent{
+	width:inherit;
+	height:inherit;
+}
